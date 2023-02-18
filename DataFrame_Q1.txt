@@ -1,0 +1,13 @@
+SOA       Vacancies Notified
+95AA01S2  381                   20
+95AA01S3  17                    16
+95AA02W1  6                     24
+95AA03W1  0                     28
+95AA04W1  72                    28
+                                ..
+95ZZ14S1  76                    12
+95ZZ14S2  0                     16
+95ZZ15W1  22                    24
+95ZZ16S1  16                    12
+95ZZ16S2  134                   12
+Name: SA, Length: 858, dtype: int64
